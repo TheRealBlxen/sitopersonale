@@ -1,0 +1,19 @@
+body {
+    color: black;
+    background-color: navajowhite;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1, h5, h3, a {
+    color: rgb(33, 105, 150);
+    text-align: center;
+}
+
+a {
+    color: crimson;
+}
+
+p {
+    color: darkcyan;
+}
